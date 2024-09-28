@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Web Development and AI.
 - 💞️ I’m looking to collaborate on full-stack useful projects.
 - 📫 How to reach me: codewithdann028@gmail.com
+- https://www.youtube.com/@techwithdann
 - 😄 Pronouns: him
 - ⚡ Fun fact: I'm a Leo, and I embody many of the traits associated with this zodiac sign, like creativity and passion.
 
