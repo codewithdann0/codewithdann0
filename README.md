@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **codewithdann028@gmail.com**
 
-- ⚡ Fun fact **Hardwork and consistency**
+- ⚡ Fun fact about me , the best day for me, the day i spent with **Hardwork and consistency**
 - <a href="https://www.youtube.com/@techwithdann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techwithdann" height="30" width="40" /></a> I love Creating and publish educational videos on my Youtube channel about coding, crypto trading, and forex trading.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
