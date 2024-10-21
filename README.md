@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Tigistu</h1>
-<h3 align="center">A Passionate Fullstack Developer 🚀</h3>
+<h3 align="center"> Fullstack Website Developer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithdann0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
