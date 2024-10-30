@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Tigistu</h1>
-<h3 align="center"> Fullstack Website Developer 🚀</h3>
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/codewithdann0">Daniel Tigistu</a></h1>
+<h3 align="center">🌟 Fullstack Website Developer 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithdann0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -21,14 +21,47 @@
 ---
 
 ## 🛠 About Me  
-- 🔭 I’m currently working on **Laravel** projects  
-- 🌱 I’m expanding my skills in **Next.js, React Native**  
-- 👯 I’m open to collaborations on **open-source projects**  
-- 🤝 Looking for assistance in **mobile app development**  
-- 👨‍💻 Check out my work: [Repositories](https://github.com/codewithdann0?tab=repositories)  
-- 💬 Ask me about **JavaScript, Laravel, React.js, Tailwind CSS**  
-- 📫 Reach me at **codewithdann028@gmail.com**  
-- ⚡ Fun fact: **Hard work + Consistency = Success!**
+- 🔭 **Currently working on**: Laravel projects  
+- 🌱 **Expanding my skills in**: Next.js, React Native  
+- 👯 **Open to collaborations on**: Open-source projects  
+- 🤝 **Looking for assistance in**: Mobile app development  
+- 👨‍💻 **Check out my work**: [Repositories](https://github.com/codewithdann0?tab=repositories)  
+- 💬 **Ask me about**: JavaScript, Laravel, React.js, Tailwind CSS  
+- 📫 **Reach me at**: [codewithdann028@gmail.com](mailto:codewithdann028@gmail.com)  
+- ⚡ **Fun fact**: Hard work + Consistency = Success!  
+
+---
+
+## 🌐 YouTube Channel Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithdann0&repo=your-youtube-repo" alt="YouTube Stats" width="400" />
+  <br>
+  <strong>🎥 Channel: [Tech With Dann](https://www.youtube.com/@techwithdann)</strong>
+</p>
+
+| 📅 Month      | 📈 Subscribers | 🎉 Views  |
+|---------------|----------------|-----------|
+| January       | 100            | 2,000     |
+| February      | 150            | 3,500     |
+| March         | 250            | 5,000     |
+| April         | 400            | 8,000     |
+| May           | 550            | 10,000    |
+| June          | 700            | 12,500    |
+| July          | 850            | 15,000    |
+| August        | 1,000          | 20,000    |
+
+---
+
+## 📚 Learning Journey  
+### 🚀 Skills I'm Currently Learning:
+- **Advanced React**: Mastering state management and hooks.
+- **TypeScript**: Adding type safety to my JavaScript projects.
+- **Mobile Development**: Exploring React Native and Flutter.
+  
+### 🌱 Progress So Far:
+- **Laravel**: Completed multiple projects, learning MVC architecture.
+- **Next.js**: Building dynamic applications with server-side rendering.
+- **Data Structures and Algorithms**: Practicing on LeetCode.
 
 ---
 
@@ -94,21 +127,21 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdann0&show_icons=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdann0&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdann0&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdann0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 🎯 Personal Goals  
-- ✅ **Grow my Youtube Channel **  
+- ✅ **Grow my YouTube Channel**  
 - 🚀 **Build an engaging e-commerce platform using Laravel and Tailwind CSS**  
-- 🏆 **Creat Personal Brand (10 years)**  
-- 🎓 **Building My Leadship Skill**  
+- 🏆 **Create a Personal Brand (10 years)**  
+- 🎓 **Enhance My Leadership Skills**  
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! Let's build something amazing together ✨</p>
+<p align="center">✨ Thank you for visiting my profile! Let's build something amazing together! ✨</p>
