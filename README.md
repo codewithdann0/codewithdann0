@@ -65,6 +65,22 @@
 
 ---
 
+## 🚀 My Projects
+### 🌟 Featured Projects:
+- **[E-Commerce Website](https://github.com/codewithdann0/ecommerce-website)**: A full-stack e-commerce platform built with Laravel and Tailwind CSS.
+- **[Personal Portfolio](https://github.com/codewithdann0/personal-portfolio)**: A dynamic portfolio showcasing my work and skills.
+- **[DriveSmart](https://github.com/codewithdann0/drivesmart)**: A driving school website built with Next.js and Tailwind CSS.
+
+---
+
+## 🎉 Fun Facts
+- 🌍 **Favorite Programming Language**: JavaScript
+- 🎮 **Hobbies**: Playing video games, exploring new tech, and Creating Content.
+- 📅 **Birth Month**: June 8
+- 🌟 **Dream**: To become a successful  Entrepreneur.
+
+---
+
 ## 🌐 Let's Connect  
 <p align="center">
   <a href="https://linkedin.com/in/daniel-tigistu-918a63314" target="_blank">
@@ -131,17 +147,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithdann0&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithdann0&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-## 🎯 Personal Goals  
-- ✅ **Grow my YouTube Channel**  
-- 🚀 **Build an engaging e-commerce platform using Laravel and Tailwind CSS**  
-- 🏆 **Create a Personal Brand (10 years)**  
-- 🎓 **Enhance My Leadership Skills**  
-
----
-
-<p align="center">✨ Thank you for visiting my profile! Let's build something amazing together! ✨</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=codewithdann0&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=codewithdann0&theme=radical" alt="Most Commit Language" />
+</p>
