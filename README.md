@@ -19,7 +19,8 @@
 </p>
 
 ---
-
+### ⚡ Fun Fact:
+"Do what you love, love what you do." — Steve Jobs
 ## 🛠 About Me  
 - 🔭 **Currently working on**: Laravel projects  
 - 🌱 **Expanding my skills in**: Next.js, React Native  
