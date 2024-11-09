@@ -33,23 +33,7 @@
 
 ---
 
-## 🌐 YouTube Channel Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithdann0&repo=your-youtube-repo" alt="YouTube Stats" width="400" />
-  <br>
-  <strong>🎥 Channel: [Tech With Dann](https://www.youtube.com/@techwithdann)</strong>
-</p>
 
-| 📅 Month      | 📈 Subscribers | 🎉 Views  |
-|---------------|----------------|-----------|
-| January       | 100            | 2,000     |
-| February      | 150            | 3,500     |
-| March         | 250            | 5,000     |
-| April         | 400            | 8,000     |
-| May           | 550            | 10,000    |
-| June          | 700            | 12,500    |
-| July          | 850            | 15,000    |
-| August        | 1,000          | 20,000    |
 
 ---
 
