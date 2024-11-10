@@ -13,10 +13,7 @@
 
 ---
 
-## 🔥 Current Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdann0&theme=blueberry&hide_border=true" width="400" alt="GitHub Streak Stats" />
-</p>
+
 
 ---
 ### ⚡ Fun Fact:
@@ -49,7 +46,10 @@
 - **Data Structures and Algorithms**: Practicing on LeetCode.
 
 ---
-
+## 🔥 Current Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdann0&theme=blueberry&hide_border=true" width="400" alt="GitHub Streak Stats" />
+</p>
 ## 🚀 My Projects
 ### 🌟 Featured Projects:
 - **[E-Commerce Website](https://github.com/codewithdann0/ecommerce-website)**: A full-stack e-commerce platform built with Laravel and Tailwind CSS.
