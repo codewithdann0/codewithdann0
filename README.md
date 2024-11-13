@@ -28,8 +28,7 @@
 - ⚡ **Fun fact**: Hard work + Consistency = Success!  
 
 ---
-### ⚡ Fun Fact:
-"Do what you love, love what you do." — Steve Jobs
+
 
 
 ---
@@ -66,6 +65,10 @@
 
 ---
 
+### ⚡ Fun Fact:
+"Do what you love, love what you do." — Steve Jobs
+
+---
 ## 🌐 Let's Connect  
 <p align="center">
   <a href="https://linkedin.com/in/daniel-tigistu-918a63314" target="_blank">
