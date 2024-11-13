@@ -28,7 +28,12 @@
 - ⚡ **Fun fact**: Hard work + Consistency = Success!  
 
 ---
+### 🌱 Progress So Far:
+- **Laravel**: Completed multiple projects, learning MVC architecture.
+- **Next.js**: Building dynamic applications with server-side rendering.
+- **Data Structures and Algorithms**: Practicing on LeetCode.
 
+---
 
 
 ---
@@ -39,12 +44,7 @@
 - **TypeScript**: Adding type safety to my JavaScript projects.
 - **Mobile Development**: Exploring React Native and Flutter.
   
-### 🌱 Progress So Far:
-- **Laravel**: Completed multiple projects, learning MVC architecture.
-- **Next.js**: Building dynamic applications with server-side rendering.
-- **Data Structures and Algorithms**: Practicing on LeetCode.
 
----
 ## 🔥 Current Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdann0&theme=blueberry&hide_border=true" width="400" alt="GitHub Streak Stats" />
