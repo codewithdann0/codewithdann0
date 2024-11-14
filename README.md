@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/codewithdann0">Daniel Tigistu</a></h1>
+<h1 align="center">👋 Hey , there !  <a href="https://github.com/codewithdann0"> here is Daniel profile</a></h1>
 <h3 align="center">🌟 Fullstack Website Developer 🚀</h3>
 
 <p align="center">
