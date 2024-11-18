@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Daniel Tigistu</h1>
-<h3 align="center">🌟 Tech Enthusiast 🚀 | Content Creator</h3>
-
+<h3 align="center">🌟 Tech Enthusiast 🚀 | Content Creator </h3>
+<h5 align="center">Content creating is my passion </h5>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithdann0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -28,7 +28,7 @@
 ## 💻 Current Stack
 - **Frontend**: React, Next.js, Tailwind CSS  
 - **Backend**: Laravel, Express.js  
-- **Database**: MySQL, SQLite  
+- **Database**: MySQL, SQLite, MongoDB 
 - **Tools**: VS Code, Git, Figma  
 - **Learning**: React Native, TypeScript  
 
