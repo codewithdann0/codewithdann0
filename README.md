@@ -28,7 +28,7 @@
 ## 💻 Current Stack
 - **Frontend**: HTML5,React, Next.js, Tailwind CSS  
 - **Backend**: Laravel, Express.js  
-- **Database**: MySQL, SQLite, MongoDB 
+- **Database**: MySQL, SQLite
 - **Tools**: VS Code, Git, Figma  
 - **Learning**: React Native, TypeScript  
 
