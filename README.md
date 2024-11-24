@@ -29,7 +29,7 @@
 - **Frontend**: HTML5,React, Next.js, Tailwind CSS  
 - **Backend**: Laravel, Express.js  
 - **Database**: MySQL, SQLite
-- **Tools**: VS Code, Git, Figma  
+- **Tools**: VS Code, Github  
 - **Learning**: React Native, TypeScript  
 
 ---
