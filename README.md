@@ -1,4 +1,4 @@
-<h1 align="center">👋 Daniel Tigistu</h1>
+<h1 align="center">Daniel Tigistu</h1>
 <h3 align="center">Tech Enthusiast && Content Creator </h3>
 <h5 align="center">Content creating is my passion </h5>
 
