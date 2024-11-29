@@ -14,24 +14,6 @@
 ---
 
 ## 💻 Skills & Technologies
-- **Frontend**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap
-- **Backend**: Laravel, Express.js, Node.js
-- **Database**: MySQL, MongoDB, SQLite
-- **Version Control**: Git, GitHub, GitLab
-- **Cloud/Deployment**: AWS, Heroku, Vercel
-- **Tools**: VS Code, Postman, Firebase, Nginx, Webpack
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdann0&theme=blueberry&hide_border=true" width="400" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 🛠 Technologies I Use
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
@@ -40,5 +22,16 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
+</p>
 
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdann0&theme=blueberry&hide_border=true" width="400" alt="GitHub Streak Stats" />
 </p>
