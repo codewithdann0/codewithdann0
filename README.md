@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3rem;">Daniel Tigistu</h1>
-<h2 align="center" style="font-size: 2rem;">Full Stack Developer | Content Creator</h2>
+<h3 align="center" style="font-size: 2rem;">Full Stack Developer | Content Creator</h2>
 
 ---
 
