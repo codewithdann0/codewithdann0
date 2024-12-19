@@ -9,9 +9,7 @@
   <a href="https://instagram.com/daniell_tigistu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" /></a>
   <a href="https://www.youtube.com/@FighterArchive1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" /></a>
   <a href="https://www.leetcode.com/daniel_tigistu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" /></a>
-</p>
-<h4 >Ich interessiere mich für den Handel, weil Chatgpt die Entwicklung so einfach macht und auf lange Sicht keine große Chance bietet
-</h4>
+
 ---
 
 ## <h1>When I Code, I Rely On;</h1>
