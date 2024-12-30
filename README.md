@@ -1,5 +1,5 @@
 # Daniel Tigistu
-## Full Stack Developer && Content Creator
+## Full Stack Developer || Content Creator
 
 ---
 
