@@ -8,7 +8,7 @@
 - 💬 **Feel free to reach out**: Always happy to chat, collaborate, or offer assistance.  
 - 📫 **Email**: **danieltigistu024gmail.com**  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: "History has a way of repeating itself."
+- ⚡ **Fun Fact**: "History has a way of repeating itself at list many times."
 
 ---
 
