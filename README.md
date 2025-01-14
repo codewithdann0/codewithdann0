@@ -3,7 +3,7 @@
 - 🔭 **Currently working on**: Building websites with **Laravel** and **Node.js**.  
 - 🌱 **Passionate about**: **Forex trading** and exploring the financial markets.  
 - 👯 **Open to collaboration**: Let's create something amazing together—whether it's web development or content creation!  
-- 📹 **YouTube content creator**: Sharing exciting content related to **UFC** and more on my channel.  
+- 📹 **YouTube content creator**: Sharing exciting content related to Reaction and more on my channel.  
 - 📈 **Forex trading**: Dedicated to mastering the markets and staying up-to-date with trends.  
 - 💬 **Feel free to reach out**: Always happy to chat, collaborate, or offer assistance.  
 - 📫 **Email**: **danieltigistu024gmail.com**  
